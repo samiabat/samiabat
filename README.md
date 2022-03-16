@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p align="center">
 ![smartphone-designify](https://user-images.githubusercontent.com/91486438/158696072-0eb551e9-a968-4ed3-830c-d737487b9e6f.png)
+  </p>
 - 🌱 I’m currently learning at Addis Ababa University
 - 👯 I’m looking to collaborate on Ai projects and back end web development
 - 🤔 I’m looking for help with to get intern and partime job <br>
