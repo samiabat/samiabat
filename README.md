@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**samiabat/samiabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning at Addis Ababa University
 - 👯 I’m looking to collaborate on Ai projects and back end web development
 - 🤔 I’m looking for help with to get intern and partime job
@@ -14,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: samuelabatneh21@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
