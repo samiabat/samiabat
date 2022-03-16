@@ -9,7 +9,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### gitdimmed
 
+```
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimme
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
+</p>
+
+### tokyonight
   
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,179 +30,15 @@
 
 
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-<p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
-  </a>
-</p>
-<p align="center">
-  </a>
-    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
-  </a>
-</p>
-<p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
-</p>
-<p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-  </a>
-</p>
-
-# Quick Start
-
-Add the following code to your readme. When pasting the code into your profile's readme, change the `?username=` value to your GitHub's username.
-
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-```
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-## Use theme
-
-Add optional parameter of the theme.
-
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-```
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
-</p>
-
-**[More detail](#apply-theme)**
-
-# About Rank
-
-Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
-
-|  Rank  |  Description  |
-| ---- | ---- |
-|  SSS, SS, S  | You are at a hard to reach rank. You can brag.  |
-|  AAA, AA, A  | You will reach this rank if you do your best. Let's aim here first.  |
-|  B, C  | You are currently making good process. Let's aim a bit higher.  |
-| UNKNOWN | You have not taken action yet. Let's act first. |
-| SECRET | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
-
-## Secret Rank
-The acquisition condition is secret, but you can know the condition by reading this code.
-
-<p align="center">
-  <img width="110" src="https://user-images.githubusercontent.com/6661165/91643641-28cd4780-ea70-11ea-94a9-a51885252700.png" />
-</p>
-
-There are still few secret trophies.  
-Therefore, if you come up with interesting conditions, I am waiting for contributions.
-
-# About Display details
-
-<p align="center">
-  <img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
-</p>
-
-1. Title name of aggregation target.
-2. Current Rank.
-3. Title according to rank.
-4. Target aggregation result.
-5. Next Rank Bar. The road from the current rank to the next rank.
 
 
-# Optional Request Parameters
-
-* [title](#filter-by-titles)
-* [rank](#filter-by-ranks)
-* [column](#specify-the-maximum-row--column-size)
-* [row](#specify-the-maximum-row--column-size)
-* [theme](#apply-theme)
-* [margin-w](#margin-width)
-* [margin-h](#margin-height)
-* [no-bg](#transparent-background)
-* [no-frame](#hide-frames)
 
 
-## Filter by titles
 
-You can filter the display by specifying the titles of trophy.  
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
-```
 
-<p align="center">
-  <img width="110" src="https://user-images.githubusercontent.com/6661165/92317141-80ebe700-f038-11ea-8501-4015bfbb2cf4.png">
-</p>
 
-If you want to specify multiple titles.
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
-```
-
-## Filter by ranks
-
-You can filter the display by specifying the ranks.  
-`Available values: SECRET SSS SS S AAA AA A B C`
-
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
-```
-<p align="center">
-  <img width="110" src="https://user-images.githubusercontent.com/6661165/91642657-1cdd8780-ea68-11ea-994b-4568a55cd22a.png" />
-</p>
-
-If you want to specify multiple ranks.
-
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
-```
-
-## Specify the maximum row & column size
-
-You can specify the maximum row and column size.  
-Trophy will be hidden if it exceeds the range of both row and column.
-
-`Available value: number type`  
-`Default: column=6 row=3`
-
-Restrict only row
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2
-```
-
-Restrict only column
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2
-```
-
-Restrict row & column
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
-```
-
-<p align="center">
-  <img width="330" src="https://user-images.githubusercontent.com/6661165/91659474-c07f7400-eb0a-11ea-84f2-eb6b42547829.png">
-</p>
-
-## Apply theme
-
-Available themes.
 
 |  theme  |
 | ---- |
@@ -380,17 +226,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png">
 </p>
 
-### gitdimmed
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimme
-```
-
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
-</p>
-
-### tokyonight
 
 ```
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
