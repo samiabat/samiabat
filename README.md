@@ -14,7 +14,7 @@
 
 ### Hello
 
-<p align="center">
+<p align="center";border-radius: 50%;>
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
 </p>
 
