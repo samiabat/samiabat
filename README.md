@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center";border-radius: 50%;>
+<p align="center" border-radius: 50%;>
   <img width="300" height="300" src="https://user-images.githubusercontent.com/91486438/158696072-0eb551e9-a968-4ed3-830c-d737487b9e6f.png">
 </p>
 - 🌱 I’m currently learning at Addis Ababa University
