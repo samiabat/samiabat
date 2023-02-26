@@ -1,6 +1,5 @@
 ### Hi there 👋
 <p align="center">
-  <img width="600" height="500" src="https://user-images.githubusercontent.com/91486438/158698624-ea0f12b2-e465-41e0-a8d6-8a1d77444dbb.png">
 </p>
 <pre>
 - 🌱 I’m currently learning at Addis Ababa University
